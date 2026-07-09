@@ -1,7 +1,3 @@
-
-# CLASS 12 PROJECT
-# By Arshiya Malhotra, Anubhav Rawat and Dakshita Yadav
-
 import mysql.connector
 
 cn=mysql.connector.connect(host='localhost',
