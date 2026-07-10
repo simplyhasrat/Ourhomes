@@ -1,5 +1,5 @@
 # Ourhomes
-A society record management system
+A society records management system using mysql and python.
 ## Features 
 + Uses mysql and python.
 + A database will contain information about the residents of the society and the registered domestic help.
